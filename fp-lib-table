@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name teensy)(type KiCad)(uri ${KIPRJMOD}/teensy.pretty-master)(options "")(descr ""))
+  (lib (name VOM452T)(type KiCad)(uri ${KIPRJMOD}/VOM452T)(options "")(descr ""))
+  (lib (name "Telemetry Board")(type KiCad)(uri "${KIPRJMOD}/Telemetry Board.pretty")(options "")(descr ""))
+  (lib (name Teensy41)(type KiCad)(uri "${KIPRJMOD}/Telemetry Board.pretty/Teensy41.pretty")(options "")(descr ""))
+)
