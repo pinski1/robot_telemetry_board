@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/teensy_library-master/teensy.lib)(options "")(descr ""))
-  (lib (name VOM452T)(type Legacy)(uri ${KIPRJMOD}/VOM452T/VOM452T.lib)(options "")(descr ""))
-  (lib (name Telemetry_Board)(type Legacy)(uri "${KIPRJMOD}/Telemetry Board.lib/Telemetry_Board.lib")(options "")(descr ""))
-)
