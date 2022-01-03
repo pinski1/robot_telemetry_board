@@ -1,6 +1,13 @@
-# robot\_telemetry\_board
+# Robot Telemetry Board
 
 [Telemetry firmware available here](https://github.com/mjg59/robot_telemetry_viewer)
+
+
+board files in ./board
+
+
+schematic in ./output
+
 
 See the "bridge" directory for code to use this board as an opto-isolated
 USB serial bridge.
