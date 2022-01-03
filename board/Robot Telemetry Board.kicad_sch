@@ -2781,6 +2781,18 @@
     (path "/f62e4749-a5b2-4267-ab10-3615a0137e97"
       (reference "#PWR0107") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/23d0e929-f5a1-4c62-b387-0887d9659f38/bed1fcda-e172-4972-9f26-ae4817728715"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/9eed6c31-5c77-454c-8869-e62929aee19a/bed1fcda-e172-4972-9f26-ae4817728715"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/0017eb4c-b93d-4b2a-a553-b57511ae010a/bed1fcda-e172-4972-9f26-ae4817728715"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/a7762375-86f9-4da1-adfe-8c3a912bf5f4/bed1fcda-e172-4972-9f26-ae4817728715"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/23d0e929-f5a1-4c62-b387-0887d9659f38/49aa11f3-52f4-4b09-b2af-22cad15226c3"
       (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -2937,32 +2949,32 @@
     (path "/92335ded-135b-495c-8198-a437f76e1924"
       (reference "U1") (unit 1) (value "Teensy4.1") (footprint "teensy:Teensy41_DIP")
     )
-    (path "/23d0e929-f5a1-4c62-b387-0887d9659f38/9dd98557-9d35-4410-bb42-c60c8569f6b4"
-      (reference "U2") (unit 1) (value "TCMT1100") (footprint "Package_SO:SOP-4_4.4x2.6mm_P1.27mm")
+    (path "/23d0e929-f5a1-4c62-b387-0887d9659f38/8e1da068-c038-42f6-b131-0133633d1d9b"
+      (reference "U2") (unit 1) (value "VOM452T") (footprint "SOIC127P700X230-5N")
     )
-    (path "/23d0e929-f5a1-4c62-b387-0887d9659f38/54a780ec-8100-4a38-b41d-45de9ffb4aeb"
-      (reference "U3") (unit 1) (value "TCMT1100") (footprint "Package_SO:SOP-4_4.4x2.6mm_P1.27mm")
-    )
-    (path "/9eed6c31-5c77-454c-8869-e62929aee19a/9dd98557-9d35-4410-bb42-c60c8569f6b4"
-      (reference "U4") (unit 1) (value "TCMT1100") (footprint "Package_SO:SOP-4_4.4x2.6mm_P1.27mm")
-    )
-    (path "/9eed6c31-5c77-454c-8869-e62929aee19a/54a780ec-8100-4a38-b41d-45de9ffb4aeb"
-      (reference "U5") (unit 1) (value "TCMT1100") (footprint "Package_SO:SOP-4_4.4x2.6mm_P1.27mm")
-    )
-    (path "/0017eb4c-b93d-4b2a-a553-b57511ae010a/9dd98557-9d35-4410-bb42-c60c8569f6b4"
-      (reference "U6") (unit 1) (value "TCMT1100") (footprint "Package_SO:SOP-4_4.4x2.6mm_P1.27mm")
-    )
-    (path "/0017eb4c-b93d-4b2a-a553-b57511ae010a/54a780ec-8100-4a38-b41d-45de9ffb4aeb"
-      (reference "U7") (unit 1) (value "TCMT1100") (footprint "Package_SO:SOP-4_4.4x2.6mm_P1.27mm")
-    )
-    (path "/a7762375-86f9-4da1-adfe-8c3a912bf5f4/9dd98557-9d35-4410-bb42-c60c8569f6b4"
-      (reference "U8") (unit 1) (value "TCMT1100") (footprint "Package_SO:SOP-4_4.4x2.6mm_P1.27mm")
-    )
-    (path "/a7762375-86f9-4da1-adfe-8c3a912bf5f4/54a780ec-8100-4a38-b41d-45de9ffb4aeb"
-      (reference "U9") (unit 1) (value "TCMT1100") (footprint "Package_SO:SOP-4_4.4x2.6mm_P1.27mm")
+    (path "/23d0e929-f5a1-4c62-b387-0887d9659f38/2103de86-478c-4a4c-8ddf-e25c84e873db"
+      (reference "U3") (unit 1) (value "VOM452T") (footprint "SOIC127P700X230-5N")
     )
     (path "/a4f73b40-7ef4-488a-814f-3ac7736ea386"
       (reference "U10") (unit 1) (value "ADXL372") (footprint "Package_LGA:LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y")
+    )
+    (path "/9eed6c31-5c77-454c-8869-e62929aee19a/2103de86-478c-4a4c-8ddf-e25c84e873db"
+      (reference "U?") (unit 1) (value "VOM452T") (footprint "SOIC127P700X230-5N")
+    )
+    (path "/0017eb4c-b93d-4b2a-a553-b57511ae010a/2103de86-478c-4a4c-8ddf-e25c84e873db"
+      (reference "U?") (unit 1) (value "VOM452T") (footprint "SOIC127P700X230-5N")
+    )
+    (path "/a7762375-86f9-4da1-adfe-8c3a912bf5f4/2103de86-478c-4a4c-8ddf-e25c84e873db"
+      (reference "U?") (unit 1) (value "VOM452T") (footprint "SOIC127P700X230-5N")
+    )
+    (path "/0017eb4c-b93d-4b2a-a553-b57511ae010a/8e1da068-c038-42f6-b131-0133633d1d9b"
+      (reference "U?") (unit 1) (value "VOM452T") (footprint "SOIC127P700X230-5N")
+    )
+    (path "/a7762375-86f9-4da1-adfe-8c3a912bf5f4/8e1da068-c038-42f6-b131-0133633d1d9b"
+      (reference "U?") (unit 1) (value "VOM452T") (footprint "SOIC127P700X230-5N")
+    )
+    (path "/9eed6c31-5c77-454c-8869-e62929aee19a/8e1da068-c038-42f6-b131-0133633d1d9b"
+      (reference "U?") (unit 1) (value "VOM452T") (footprint "SOIC127P700X230-5N")
     )
   )
 )
